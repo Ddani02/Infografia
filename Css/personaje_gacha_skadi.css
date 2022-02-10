@@ -1,0 +1,4 @@
+@charset "utf-8";
+[id*='runa']:hover{opacity: .8;cursor: pointer;}
+[id*='Skadi']:hover{opacity: .8;cursor: pointer;}
+#Skadi, #nombregrande, #texto{display: none;}

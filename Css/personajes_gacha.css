@@ -1,0 +1,4 @@
+@charset "utf-8";
+#Zhongli,#Texto,#Nombre-zhongli-big{display: none;}
+[id*='vision_x5F_geo']:hover{opacity: .8;cursor: pointer;}
+[id*='Zhongli']:hover{opacity: .8;cursor: pointer;}

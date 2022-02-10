@@ -1,0 +1,11 @@
+@charset "utf-8";
+*{font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif" }
+header{background-color: coral}
+header H1{color: darkred;text-align: center}
+.subrayado{text-decoration: underline }
+.mayuscula{text-transform: uppercase;}
+footer p{color: cornflowerblue;}
+.espacio {padding-left: 10px;}
+nav a{margin: 20px; text-decoration: none;font-weight: bold;
+}
+nav a:hover{color:chocolate}

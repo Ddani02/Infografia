@@ -1,0 +1,4 @@
+@charset "utf-8";
+[id*='Cristal']:hover{opacity: .8;cursor: pointer;}
+[id*='Himeko']:hover{opacity: .8;cursor: pointer;}
+#Himeko, #Nombregrande, #texto{display: none;}

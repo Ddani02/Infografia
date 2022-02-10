@@ -1,0 +1,7 @@
+@charset "utf-8";
+[id*='Genshin-impact']:hover{opacity: .8;cursor: pointer;}
+[id*='Honkai_Impact']:hover{opacity: .8;cursor: pointer;}
+[id*='FateGo']:hover{opacity: .8;cursor: pointer;}
+#protogema{float: left; margin: 2px;}
+
+#Honkai-explicacion,#Genshin-impact-explicacion,#Fgo-explicacion{display: none;}

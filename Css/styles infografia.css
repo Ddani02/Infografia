@@ -1,0 +1,21 @@
+@charset "utf-8";
+html, body{width: 100%;
+height: 100%;
+margin: 0;
+text-align: center;}
+
+svg{width: 1200px;
+height: auto;}
+	.fondoverde{fill:#D0D6D6;}
+	#circulo-btn{fill:#788989;}
+/*#circulo-btn:hover, #estrella-btn:hover, #hexagono-btn:hover{opacity: .8;cursor: pointer;}*/
+[id*='-btn']:hover{opacity: .8;cursor: pointer;}
+	#estrella-btn{fill:#3E3D4D;}
+	#hexagono-btn{fill:#A38E9D;}
+
+	.fondoblanco{fill:#FFFFFF;}
+	.texto-info{font-family:'MyriadPro-Regular'; font-size:36.6927px;}
+	
+	.titulo{font-size:102.9624px;}
+#circulo-info, #hexagono-info, #estrella-info{display: none;}*/
+g[id*='-info']{display:none;}

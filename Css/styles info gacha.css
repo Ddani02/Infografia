@@ -1,0 +1,13 @@
+@charset "utf-8";
+[id*='Fgo_battle']:hover{opacity: .8;cursor: pointer;}
+[id*='Kokomi']:hover{opacity: .8;cursor: pointer;}
+[id*='Capa_1']:hover{opacity: .8;cursor: pointer;}
+[id*='Trazado']:hover{opacity: .8;cursor: pointer;}
+[id*='trazado']:hover{opacity: .8;cursor: pointer;}
+[id*='trazado2']:hover{opacity: .8;cursor: pointer;}
+[id*='trazado3']:hover{opacity: .8;cursor: pointer;}
+[id*='trazado4']:hover{opacity: .8;cursor: pointer;}
+[id*='trazado2']:hover{opacity: .8;cursor: pointer;}
+
+[id*='Cristal_Honkai']:hover{cursor: pointer;}
+[id*='Cristal_Honkai_1_']:hover{cursor: pointer;}
