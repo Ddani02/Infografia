@@ -1,0 +1,4 @@
+@charset "utf-8";
+[id*='zhongli']:hover{opacity: .8;cursor: pointer;}
+[id*='skadi']:hover{opacity: .8;cursor: pointer;}
+[id*='Himeko']:hover{opacity: .8;cursor: pointer;}

@@ -1,0 +1,39 @@
+@charset "utf-8"; *{margin: 0}
+
+@font-face{font-family: secciones;src: url("../fonts/Peachy Mochi.ttf")}
+body{background:url("../imgs/dbd36c83e480c59d129f8addd776a2ca.jpg")repeat-x;
+}
+#contenedor{
+    background-color: cornflowerblue;
+    max-width: 1200px;
+
+    border: 0px solid#000000;margin: 0 auto;
+}
+header{height: 150px; background-color: black; }
+header H1{margin: 30px;color: pink; float: left; margin-left: calc(50% - 150px); width: 150px; text-align: center;
+font-size: 70px; padding-bottom: 10px;}
+header img{float: left;}
+nav{background-color: pink;padding: 10px 0px}
+main{width: 80%; height: 375px;background-color: coral; float:left}
+aside{width: 20%; height: 375px;background-color: orange;float:left}
+footer{height: 75px; background: #965758; clear: both}
+section{width: 90%;background: white; margin: 20px auto;}
+header h1{font-family: 'Road Rage', cursive; font-size: 60px}
+section h1{font-family: secciones}
+ul{list-style-type: none;padding: 0;text-align: center;}
+li{background-color: darkslategrey; width:110px;display: inline-block; padding: 10px 5px}
+li:hover{background-color: maroon}
+@media screen and (max-width: 768px){
+	
+			main, aside{width: 100%;}}
+.navegacion{background-color: chartreuse;}
+.separacion{margin: 12px;}
+.sectionbig{height: 220px}
+.sectionsmall{height: 100px}
+section h3{text-align:justify}
+section img{margin-right: 2px;padding-right: 10px; float: left;}
+section h1{padding-top:1px }
+section h6 {padding-top: 5px;}
+section img:hover{background-color: grey;}
+footer img{padding:1px; float:left;}
+footer h4{padding:22px; float:left;}
